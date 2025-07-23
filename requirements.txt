@@ -1,3 +1,4 @@
+python-3.10.12
 pymongo[srv]==4.2.0
 pandas
 numpy
