@@ -13,4 +13,5 @@ flask
 gunicorn==21.2.0
 certifi
 setuptools
+distutils
 -e .   #editable mode 
