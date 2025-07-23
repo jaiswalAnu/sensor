@@ -9,4 +9,6 @@ dill
 scipy 
 imblearn==0.0
 xgboost==1.6.2
+gunicorn=20.1.0
+flask
 -e .   #editable mode 
