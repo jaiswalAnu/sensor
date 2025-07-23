@@ -12,5 +12,5 @@ xgboost==1.6.2
 flask
 gunicorn==21.2.0
 certifi
-
+setuptools
 -e .   #editable mode 
